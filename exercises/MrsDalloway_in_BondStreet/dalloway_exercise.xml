@@ -220,7 +220,7 @@
             <byline>BY <persName key="Woolf, Virginia" ref="http://vocab.getty.edu/ulan/500330927" role="aut" type="real">VIRGINIA WOOLF</persName></byline>
 
             <p><persName cert="high" type="fictional">Mrs Dalloway</persName> said she would buy the gloves herself.</p>
-            <p><objectName>Big Ben</objectName> was striking as she stepped out into the street. It was <time cert="high" evidence="internal" instant="unknown" precision="high" unit="cm" xml:space="default">eleven o'clock</time> and
+            <p><objectName cert="high" evidence="internal" full="yes" instant="unknown" xml:space="default">Big Ben</objectName> was striking as she stepped out into the street. It was <time cert="high" evidence="internal" instant="unknown" precision="high" unit="cm" xml:space="default">eleven o'clock</time> and
                the unused hour was fresh as if issued to children on a beach. But there was
                something solemn in the deliberate swing of the repeated strokes; something stirring
                in the murmur of wheels and the shuffle of footsteps.</p>
