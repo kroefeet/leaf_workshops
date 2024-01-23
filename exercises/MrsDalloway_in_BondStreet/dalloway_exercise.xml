@@ -60,14 +60,14 @@
             <byline>BY VIRGINIA WOOLF</byline>
 
             <p><persName cert="high" type="fictional">Mrs Dalloway</persName> said she would buy the gloves herself.</p>
-            <p>Big Ben was striking as she stepped out into the street. It was <time cert="high" evidence="internal" instant="unknown" precision="high" unit="cm" xml:space="default">eleven o'clock</time> and
+            <p><objectName>Big Ben</objectName> was striking as she stepped out into the street. It was <time cert="high" evidence="internal" instant="unknown" precision="high" unit="cm" xml:space="default">eleven o'clock</time> and
                the unused hour was fresh as if issued to children on a beach. But there was
                something solemn in the deliberate swing of the repeated strokes; something stirring
                in the murmur of wheels and the shuffle of footsteps.</p>
             <p>No doubt they were not all bound on errands of happiness. There is much more to be
                said about us than that we walk the streets of Westminster. Big Ben too is nothing
                but steel rods consumed by rust were it not for the care of H. M.'s Office of Works.
-               Only for Mrs Dalloway the moment was complete; for Mrs Dalloway June was fresh. A
+               Only for Mrs Dalloway the moment was complete; for Mrs Dalloway <time cert="high" evidence="internal" instant="unknown" precision="high" unit="cm" xml:space="default">June</time> was fresh. A
                happy childhood—and it was not to his daughters only that Justin Parry had seemed a
                fine fellow (weak of course on the Bench); flowers at evening, smoke rising; the caw
                of rooks falling from ever so high, down down through the October air—there is
